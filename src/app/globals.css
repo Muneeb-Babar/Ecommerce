@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @layer components {
-  button {
+  /* button {
     -webkit-tap-highlight-color: transparent;
   }
   .remove-tap-highlight {
     -webkit-tap-highlight-color: transparent;
-  }
+  } */
 }
